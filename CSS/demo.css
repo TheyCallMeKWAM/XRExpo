@@ -60,6 +60,9 @@ p{
 video{
     z-index: -1;
 }
+#bottomvid{
+    margin-bottom: 100px;
+}
 
 #scroll{
     padding-left: 100px;
