@@ -59,6 +59,8 @@ p{
 
 video{
     z-index: -1;
+    width: auto;
+    height: auto;
 }
 #bottomvid{
     margin-bottom: 50px;
