@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    overflow: hidden;
+    overflow: auto;
     width: auto;
     height: auto;
 }
@@ -45,10 +45,18 @@ body{
 
 h3{
     font-family:sans-serif;
-    font-weight: 300;
+    font-weight: 600;
+    color: white;
+    margin-left: 50px;
+    font-size: 30px;
+}
+h2{
+    font-family:sans-serif;
+    font-weight: 500;
     color: white;
     margin-left: 50px;
     margin-top: 50px;
+    font-size: 36px;
 }
 
 p{
@@ -63,4 +71,12 @@ p{
     padding-left: 25px;
     width: 425px;
     height: 250px;
+}
+
+li{
+    color:white;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 25px;
+    margin-left: 50px;
 }
